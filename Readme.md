@@ -8,7 +8,7 @@ O **Sproutdew Valley** está em fase de desenvolvimento, com melhorias e novas f
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar uma preview do projeto [*aqui*](). Repositório:
+Você pode acessar uma preview do projeto [*aqui*](https://lemarchioni.github.io/SproutdewValley/). Repositório:
 
 ```bash
 https://lemarchioni.github.io/SproutdewValley/
